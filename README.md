@@ -25,4 +25,5 @@ Add the scroll to top feature on switching tabs and different floating action bu
 
 https://user-images.githubusercontent.com/72706598/179758881-da46013e-cafd-40b1-8529-9eac21da7d7f.mp4
 
-##Figma Link: https://www.figma.com/file/35guuZYyZvw1zp1TTY5MNn/WhatsApp-Clone--(Dark-mode)-(Community)?node-id=1%3A2
+## Figma Link:
+https://www.figma.com/file/35guuZYyZvw1zp1TTY5MNn/WhatsApp-Clone--(Dark-mode)-(Community)?node-id=1%3A2
